@@ -1,4 +1,4 @@
 def print_arguments(*args):
     for arg in args:
         print(arg)
-print_arguments('Hello', 'world', 123, [1, 2, 3])
+print_arguments('Rayudu', 'Btech', 777, [1, 2, 3])

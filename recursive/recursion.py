@@ -11,12 +11,12 @@ def power(base, exponent):
 
     else:
         return 1 / power(base, -exponent)
-base = 2
+base = 8
 exponent = 5
 result = power(base, exponent)
 print(f"{base}^{exponent} = {result}")
 
-base = 3
+base = 8
 exponent = -3
 result = power(base, exponent)
 print(f"{base}^{exponent} = {result}")
